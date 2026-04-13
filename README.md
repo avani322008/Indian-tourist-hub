@@ -71,15 +71,6 @@ Since this project is hosted on Blogger:
 - To improve digital awareness  
 - To demonstrate website creation using Blogger  
 - To help students understand basic web concepts  
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here)
-
-
-
 ---
 
 ## 🙋 Author
